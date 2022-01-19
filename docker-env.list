@@ -1,0 +1,4 @@
+# Environment values to be passed to the docker container
+
+BINANCE_API_KEY=YOUR_API_KEY
+BINANCE_API_SECRET=YOUR_SECRET_KEY
