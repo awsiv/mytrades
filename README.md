@@ -11,8 +11,8 @@ Only summarizes trading in Binance for now
 
 ```
 cd mytrades
-docker build -t trades .
-docker run --env-file ./docker-env.list  mytrades
+docker build -t mytrades .
+docker run --env-file ./docker-env.list mytrades:latest
 ```
 
 
