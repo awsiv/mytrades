@@ -6,7 +6,7 @@ Only summarizes trading in Binance for now
 1. Create binance Read only API key: https://www.binance.com/en/support/faq/360002502072
 
 2. Update docker-env.list with the keys (make sure you don't commit this anywhere)
-3. Update your symbols (support USDT, BUSD and USDC currently) in `symbols.txt` 
+3. Update your symbols (only USDT pairs supported for now) in `symbols.txt` 
 4. Run:
 
 ```
